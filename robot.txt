@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://8000-idxma472l2ut2lyppk1rl-7677353b.sg2.manus.computer/sitemap.xml
